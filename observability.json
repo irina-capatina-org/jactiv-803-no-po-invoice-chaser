@@ -15,10 +15,13 @@
       "story": "JACTIV-803"
     },
     "Architecture": {
-      "status": "in-progress",
-      "updatedAt": "2026-09-29T20:11:00Z",
+      "status": "in-review",
+      "updatedAt": "2026-09-29T20:13:24Z",
       "task": "Determining architecture",
-      "run": 36624493693
+      "run": 36624493693,
+      "decidedBy": "auto",
+      "pr": 2,
+      "prUrl": "https://github.com/irina-capatina-org/jactiv-803-no-po-invoice-chaser/pull/2"
     },
     "Development": {
       "status": "todo",
