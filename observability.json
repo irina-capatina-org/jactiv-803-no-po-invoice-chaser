@@ -25,9 +25,11 @@
     },
     "Development": {
       "status": "done",
-      "updatedAt": "2026-09-29T20:19:25Z",
+      "updatedAt": "2026-09-29T20:19:46Z",
       "task": "Reading the design",
-      "run": 36624845109
+      "run": 36624845109,
+      "pr": 3,
+      "prUrl": "https://github.com/irina-capatina-org/jactiv-803-no-po-invoice-chaser/pull/3"
     },
     "Testing": {
       "status": "in-review",
