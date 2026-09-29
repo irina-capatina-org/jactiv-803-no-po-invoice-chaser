@@ -15,8 +15,8 @@
       "story": "JACTIV-803"
     },
     "Architecture": {
-      "status": "in-review",
-      "updatedAt": "2026-09-29T20:13:24Z",
+      "status": "done",
+      "updatedAt": "2026-09-29T20:13:33Z",
       "task": "Determining architecture",
       "run": 36624493693,
       "decidedBy": "auto",
